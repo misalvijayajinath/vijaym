@@ -1,0 +1,55 @@
+.header {
+    height: 90vh;
+    width: 100%;
+    
+    color: black;
+      
+
+    
+    background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+}
+
+ .h-100{
+    height: 100%;
+    width: 100%;
+
+
+ }
+ .message{
+    background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);
+  
+     
+     
+
+
+ }
+ .btn{
+     border-radius: 10rem !important ;
+
+     padding: 1.24rem !important ;
+     background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+
+
+ }
+ .myicon{
+     font-size: 70px;
+     padding: 30px;
+     
+
+
+ }
+ .introduction{
+
+    background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+ }
+ 
+
+ }
+ 
+
+
+
+
+
+
+
